@@ -199,4 +199,4 @@ This repository serves as the official landing page for Nancy Drew: The Haunting
 **Get the most recent version of Nancy Drew: The Haunting of Castle Malloy today!**
 
 ---
-**Last updated:** 2026-11-10 03:23:32 UTC
+**Last updated:** 2026-11-10 12:27:03 UTC
